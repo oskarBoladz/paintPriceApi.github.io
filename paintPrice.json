@@ -1,4 +1,11 @@
+
 {
     "oliPaintPrice":"xd123sus",
-    "acrilPaintPrice":"jejks"
+    "acrilPaintPrice":"jejks",
+    "posterPaintPrice":"a",
+    "watercolorPaintPrice":"v",
+    "emulsionPaintPrice":"jejks",
+    "fluorescentPaintPrice":"a",
+    "latexPaintPrice":"v",
+    "mattePaintPrice":"v"
 }
