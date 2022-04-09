@@ -1,44 +1,59 @@
 
 {
-    "oliPaint":{
+    "pizza":[
+    [{
+        "name":"Farby olejne",
         "isExist":"False",
         "price":180,
         "colors":["52, 235, 122","81, 37, 120"]
-    },
-
-    "acrilPaint":{
-        "isExist":"True",
+    }],
+    [{
+        "name":"Farby akrylowe",
+        "isExist":"False",
         "price":180,
         "colors":["52, 235, 122","81, 37, 120"]
-    },
-    "posterPaint":{
-        "isExist":"True",
+    }],
+    [{
+        "name":"Farby plakatowe",
+        "isExist":"False",
         "price":180,
         "colors":["52, 235, 122","81, 37, 120"]
-    },
-    "watercolorPaint":{
-        "isExist":"True",
+    }],
+    [{
+        "name":"Farby akwarele",
+        "isExist":"False",
         "price":180,
         "colors":["52, 235, 122","81, 37, 120"]
-    },
-    "emulsionPaint":{
-        "isExist":"True",
+    }],
+    [{
+        "name":"Farby emulsywne",
+        "isExist":"False",
         "price":180,
         "colors":["52, 235, 122","81, 37, 120"]
-    },
-    "fluorescentPaint":{
-        "isExist":"True",
+    }],
+    [{
+        "name":"Farby fluorestencyjne",
+        "isExist":"False",
         "price":180,
         "colors":["52, 235, 122","81, 37, 120"]
-    },
-    "latexPaint":{
-        "isExist":"True",
+    }],
+    [{
+        "name":"Farby lateksowe",
+        "isExist":"False",
         "price":180,
         "colors":["52, 235, 122","81, 37, 120"]
-    },
-    "mattePaint":{
-        "isExist":"True",
+    }],
+    [{
+        "name":"Farby matowe",
+        "isExist":"False",
         "price":180,
         "colors":["52, 235, 122","81, 37, 120"]
-    }
+    }],
+    [{
+        "name":"Farby akrylowe",
+        "isExist":"False",
+        "price":180,
+        "colors":["52, 235, 122","81, 37, 120"]
+    }]
+]
 }
