@@ -1,44 +1,44 @@
 
 {
-    "oliPaint":[{
+    "oliPaint":{
         "isExist":"True",
         "price":180,
         "colors":["52, 235, 122","81, 37, 120"]
-    }],
+    },
 
-    "acrilPaint":[{
+    "acrilPaint":{
         "isExist":"True",
         "price":180,
         "colors":["52, 235, 122","81, 37, 120"]
-    }],
-    "posterPaint":[{
+    },
+    "posterPaint":{
         "isExist":"True",
         "price":180,
         "colors":["52, 235, 122","81, 37, 120"]
-    }],
-    "watercolorPaint":[{
+    },
+    "watercolorPaint":{
         "isExist":"True",
         "price":180,
         "colors":["52, 235, 122","81, 37, 120"]
-    }],
-    "emulsionPaint":[{
+    },
+    "emulsionPaint":{
         "isExist":"True",
         "price":180,
         "colors":["52, 235, 122","81, 37, 120"]
-    }],
-    "fluorescentPaint":[{
+    },
+    "fluorescentPaint":{
         "isExist":"True",
         "price":180,
         "colors":["52, 235, 122","81, 37, 120"]
-    }],
-    "latexPaint":[{
+    },
+    "latexPaint":{
         "isExist":"True",
         "price":180,
         "colors":["52, 235, 122","81, 37, 120"]
-    }],
-    "mattePaint":[{
+    },
+    "mattePaint":{
         "isExist":"True",
         "price":180,
         "colors":["52, 235, 122","81, 37, 120"]
-    }]
+    }
 }
