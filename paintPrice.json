@@ -3,8 +3,8 @@
     "pizza":[
     [{
         "name":"Farby olejne",
-        "isExist":"False",
-        "price":180,
+        "isExist":"True",
+        "price":120,
         "colors":["52, 235, 122","81, 37, 120"]
     }],
     [{
@@ -16,7 +16,7 @@
     [{
         "name":"Farby plakatowe",
         "isExist":"False",
-        "price":180,
+        "price":120,
         "colors":["52, 235, 122","81, 37, 120"]
     }],
     [{
@@ -27,7 +27,7 @@
     }],
     [{
         "name":"Farby emulsywne",
-        "isExist":"False",
+        "isExist":"True",
         "price":180,
         "colors":["52, 235, 122","81, 37, 120"]
     }],
