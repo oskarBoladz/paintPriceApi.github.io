@@ -5,7 +5,7 @@
         "name":"Farby olejne",
         "isExist":"True",
         "price":120,
-        "colors":["52, 235, 122","81, 37, 120"]
+        "colors":["52, 235, 122","81, 37, 120","168, 50, 94"]
     }],
     [{
         "name":"Farby akrylowe",
@@ -17,13 +17,13 @@
         "name":"Farby plakatowe",
         "isExist":"False",
         "price":120,
-        "colors":["52, 235, 122","81, 37, 120"]
+        "colors":["52, 235, 122"]
     }],
     [{
         "name":"Farby akwarele",
         "isExist":"False",
         "price":180,
-        "colors":["52, 235, 122","81, 37, 120"]
+        "colors":["52, 235, 122","81, 37, 120","168, 50, 94"]
     }],
     [{
         "name":"Farby emulsywne",
