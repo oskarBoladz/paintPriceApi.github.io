@@ -4,13 +4,13 @@
     [{
         "name":"Farby olejne",
         "isExist":"True",
-        "price":120,
-        "colors":["52, 235, 122","81, 37, 120","168, 50, 94"]
+        "price":80,
+        "colors":["255, 4, 0","255, 145, 0","255, 247, 0","0, 255, 17","0, 255, 234","0, 8, 255","200, 0, 255","255, 0, 187"]
 }],
     [{
         "name":"Farby akrylowe",
         "isExist":"False",
-        "price":180,
+        "price":90,
         "colors":["52, 235, 122","81, 37, 120"]
     }],
     [{
@@ -28,31 +28,31 @@
     [{
         "name":"Farby emulsywne",
         "isExist":"True",
-        "price":180,
+        "price":50,
         "colors":["52, 235, 122","81, 37, 120"]
     }],
     [{
         "name":"Farby fluorestencyjne",
         "isExist":"False",
-        "price":180,
+        "price":70,
         "colors":["52, 235, 122","81, 37, 120"]
     }],
     [{
         "name":"Farby lateksowe",
         "isExist":"False",
-        "price":180,
+        "price":40,
         "colors":["52, 235, 122","81, 37, 120"]
     }],
     [{
         "name":"Farby matowe",
         "isExist":"False",
-        "price":180,
+        "price":110,
         "colors":["52, 235, 122","81, 37, 120"]
     }],
     [{
         "name":"Farby akrylowe",
         "isExist":"False",
-        "price":180,
+        "price":60,
         "colors":["52, 235, 122","81, 37, 120"]
     }]
 ]
